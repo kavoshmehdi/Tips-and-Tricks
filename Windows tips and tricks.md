@@ -29,3 +29,9 @@ W + I	system configuration
 W + Ctrl + D	virtual desktop
 
 W + Ctrl + -> , <-	move in virtual desktop
+
+ALT + PRINTSCREEN windows capture in clipboard
+
+W + SHIFT + S capture select screen in clipboard
+
+W + FN + SPACE capture screen in surface
