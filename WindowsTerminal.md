@@ -1,5 +1,9 @@
-alt + z wrap and unwrap
+alt + shift =  |
 
-ctrl + f2 rename all
+alt + shift + - ---
 
-ctrl + [] fold and unfold
+ctrl + shift + w close
+
+alt + arowkey move
+
+alt + shift + arowkey resize
