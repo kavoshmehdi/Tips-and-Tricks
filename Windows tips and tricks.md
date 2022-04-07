@@ -257,3 +257,11 @@ Window + Ctrl + O باز کردن کیبورد مجازی
 Alt + Shift + Prntsc خاموش یا روشن کردن حالت High Contrast
 
 Alt + Shift + Num Lock خاموش یا روشن کردن دکمه‌های ماوس
+
+Windows + C open microsoft teams
+
+Windows + Z open snap
+
+Windows + W open widget
+
+Windows + N open notifications
